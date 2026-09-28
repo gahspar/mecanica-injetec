@@ -1,0 +1,16 @@
+node_modules/
+node_modules.partial-install/
+.next/
+.next-stale/
+.video-tools/
+out/
+.vercel/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+.DS_Store
+/tmp/
+/output/
+/AGENTS.md
+/CLAUDE.md
